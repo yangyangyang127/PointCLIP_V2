@@ -4,11 +4,13 @@
 
 [[`arXiv`](https://arxiv.org/abs/2211.11682)] [[`bibtex`](#Citation)]
 
-Examples of the synthesized depth map and attention map:
+
+<!-- Examples of the synthesized depth map and attention map: -->
 ![Depth and Attention Map](figs/depth_attention_map.png)
 
-The whole framework of PointCLIP V2:
-![Whole Framework](figs/whole_framework.png)
+
+<!-- The whole framework of PointCLIP V2: -->
+<!-- ![Whole Framework](figs/whole_framework.png) -->
 
 
 ## Code
