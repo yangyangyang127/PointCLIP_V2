@@ -20,7 +20,7 @@ We will release the code soon.
 Thanks for citing our paper:
 
 ```
-@inproceedings{Zhu2022PointCLIPV2,
+@article{Zhu2022PointCLIPV2,
     title={{PointCLIP V2: Adapting CLIP for Powerful 3D Open-world Learning}},
     author={Zhu, Xiangyang and Zhang, Renrui and He, Bowei and Zeng, Ziyao and Zhang, Shanghang and Gao, Peng},
     journal={arXiv preprint arXiv:2211.11682},
