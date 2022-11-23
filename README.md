@@ -17,6 +17,9 @@
 
 We will release the code soon.
 
+## Contributors
+[Xiangyang Zhu](https://github.com/yangyangyang127), [Renrui Zhang](https://github.com/ZrrSkywalker)
+
 
 ## Citation
 Thanks for citing our paper:
@@ -29,4 +32,7 @@ Thanks for citing our paper:
     year={2022},
 }
 ```
+
+## Contact
+If you have any question about this project, please feel free to contact xiangyzhu6-c@my.cityu.edu.hk and zhangrenrui@pjlab.org.cn.
 
