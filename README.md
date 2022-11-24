@@ -18,7 +18,7 @@ PointCLIP V2 is a powerful 3D open-world learner, which improves the performance
 
 ## Code
 
-We will release the code soon.
+The code will be released soon.
 
 ## Contributors
 [Xiangyang Zhu](https://github.com/yangyangyang127), [Renrui Zhang](https://github.com/ZrrSkywalker)
@@ -29,7 +29,7 @@ Thanks for citing our paper:
 
 ```
 @article{Zhu2022PointCLIPV2,
-    title={{PointCLIP V2: Adapting CLIP for Powerful 3D Open-world Learning}},
+    title={PointCLIP V2: Adapting CLIP for Powerful 3D Open-world Learning},
     author={Zhu, Xiangyang and Zhang, Renrui and He, Bowei and Zeng, Ziyao and Zhang, Shanghang and Gao, Peng},
     journal={arXiv preprint arXiv:2211.11682},
     year={2022},
