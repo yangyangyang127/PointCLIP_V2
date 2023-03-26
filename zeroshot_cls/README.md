@@ -5,7 +5,7 @@ This is the implementation of the zero-shot classification task.
 The zero-shot results on the full test set of ModelNet40 and ScanObjectNN are:
 
 
-| Accuracy | ModelNet40 | ScanObjectNN |
+| Backbone | ModelNet40 | ScanObjectNN |
 | :---: | :---: | :---: |
 | ResNet50 | 39.38 | 35.32 |
 | ResNet101 | 46.31 | 29.84 |
