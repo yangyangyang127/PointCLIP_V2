@@ -5,7 +5,6 @@ Official implementation of [PointCLIP V2: Adapting CLIP for Powerful 3D Open-wor
 The V1 version of [PointCLIP](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_PointCLIP_Point_Cloud_Understanding_by_CLIP_CVPR_2022_paper.pdf) accepted by CVPR 2022 is open-sourced at [here](https://github.com/ZrrSkywalker/PointCLIP).
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pointclip-v2-adapting-clip-for-powerful-3d/zero-shot-transfer-3d-point-cloud-2)](https://paperswithcode.com/sota/zero-shot-transfer-3d-point-cloud-2?p=pointclip-v2-adapting-clip-for-powerful-3d)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pointclip-v2-adapting-clip-for-powerful-3d/zero-shot-transfer-3d-point-cloud)](https://paperswithcode.com/sota/zero-shot-transfer-3d-point-cloud?p=pointclip-v2-adapting-clip-for-powerful-3d)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pointclip-v2-adapting-clip-for-powerful-3d/training-free-3d-point-cloud-classification-1)](https://paperswithcode.com/sota/training-free-3d-point-cloud-classification-1?p=pointclip-v2-adapting-clip-for-powerful-3d)
 
 ## News
