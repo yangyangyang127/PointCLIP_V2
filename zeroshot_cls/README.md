@@ -1,6 +1,7 @@
 ## Introduction
 
-This is the implementation of the zero-shot classification task. The zero-shot results on the full test set of ModelNet40 and ScanObjectNN are:
+This is the implementation of the zero-shot classification task. 
+The zero-shot results on the full test set of ModelNet40 and ScanObjectNN are:
 
 | Accuracy | ModelNet40 | ScanObjectNN |
 | :---: | :---: | :---: |
