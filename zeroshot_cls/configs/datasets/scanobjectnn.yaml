@@ -1,0 +1,3 @@
+DATASET:
+  NAME: 'ScanObjectNN'
+  NUM_SHOTS: 0
