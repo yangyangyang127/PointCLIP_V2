@@ -1,6 +1,14 @@
 ## Introduction
 
-This is the implementation of the zero-shot classification task.
+This is the implementation of the zero-shot classification task. The zero-shot results on the full test set of ModelNet40 and ScanObjectNN are:
+
+| Accuracy | ModelNet40 | ScanObjectNN |
+| :---: | :---: | :---: |
+| ResNet50 | 39.38 | 35.32 |
+| ResNet101 | 46.31 | 29.84 |
+| ViT-B/32 | 55.14 | **36.36** |
+| ViT-B/16 | **64.26** | 35.66 |
+
 
 ## Requirements
 
@@ -34,16 +42,6 @@ After download, the directory structure should be:
 │   ├──scanobjectnn/
 ├──...
 ```
-
-## Performance:
-The zero-shot classification performance:
-
-| Accuracy | ModelNet40 | ScanObjectNN |
-| :---: | :---: | :---: |
-| ResNet50 | 39.38 | 35.32 |
-| ResNet101 | 46.31 | 29.84 |
-| ViT-B/32 | 55.14 | **36.36** |
-| ViT-B/16 | **64.26** | 35.66 |
 
 ## Get Started
 
