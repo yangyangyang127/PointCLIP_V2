@@ -22,7 +22,7 @@ PointCLIP V2 is a powerful 3D open-world learner, which improves the performance
 
 ## Code
 
-The `zeroshot_cls` folder contains the code for zero-shot classification, and `zeroshot_seg` contains code for zero-shot part segmentation.
+Please check the `zeroshot_cls` folder for [zero-shot 3D classification](https://github.com/yangyangyang127/PointCLIP_V2/tree/main/zeroshot_cls), and `zeroshot_seg` folder for [zero-shot part segmentation](https://github.com/yangyangyang127/PointCLIP_V2/tree/main/zeroshot_seg).
 
 ## Contributors
 [Xiangyang Zhu](https://github.com/yangyangyang127), [Renrui Zhang](https://github.com/ZrrSkywalker)
