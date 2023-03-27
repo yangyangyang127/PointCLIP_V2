@@ -27,8 +27,6 @@ def print_args(args, cfg):
 
 
 def reset_cfg(cfg, args):
-    if args.root:
-        cfg.DATASET.ROOT = args.root
 
     if args.output_dir:
         cfg.OUTPUT_DIR = args.output_dir
@@ -112,7 +110,6 @@ def main(args):
                 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--root', type=str, default='', help='path to dataset')
     parser.add_argument('--output-dir', type=str, default='', help='output directory')
     parser.add_argument('--seed', type=int,default=2,help='only positive value enables a fixed seed')
     parser.add_argument('--transforms', type=str, nargs='+', help='data augmentation methods')
