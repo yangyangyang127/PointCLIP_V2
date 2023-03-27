@@ -49,11 +49,11 @@ After download, the directory structure should be:
 ## Get Started
 
 ### Zero-shot Classification
-Edit the running command in `zeroshot_cls.sh`, e.g. config file and output directory. Then run Zero-shot classification:
+Edit the running command in `zeroshot_cls.sh`, e.g. config file and output directory. Then run zero-shot classification:
 ```bash
 bash zeroshot.sh
 ```
-The dataset can be change by commenting or uncommenting line 4 and 5, i.e.
+The dataset can be changed by commenting or uncommenting line 4 and 5, i.e.
 ```bash
 #DATASET=modelnet40
 DATASET=scanobjectnn
