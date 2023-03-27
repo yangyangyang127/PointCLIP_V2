@@ -1,3 +1,4 @@
 DATASET:
   NAME: 'ModelNet40'
   NUM_SHOTS: 0
+  ROOT: 'data/modelnet40_ply_hdf5_2048'
