@@ -25,7 +25,11 @@ Edit the running command in `zeroshot_cls.sh`, e.g. choice of category and data 
 ```bash
 bash zeroshot_seg.sh
 ```
-The prior category should be specified in line 7 of this .sh file. 
+The prior category should be specified in line 7 of this .sh file, i.e.
+```bash
+CLASS=chair
+```
+The classnames can be selected from `[airplane, bag, cap, car, chair, earphone, guitar, knife, lamp, laptop, motorbike, mug, pistol, rocket, skateboard, table]`.
 
 ## Acknowlegment
 This repo benefits from [PointCLIP](https://github.com/ZrrSkywalker/PointCLIP), [CLIP](https://github.com/openai/CLIP), [CurveNet](https://github.com/tiangexiang/CurveNet), and [dgcnn](https://github.com/antao97/dgcnn.pytorch). Thanks for their wonderful works.
