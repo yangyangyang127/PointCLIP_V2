@@ -53,7 +53,11 @@ Edit the running command in `zeroshot_cls.sh`, e.g. config file and output direc
 ```bash
 bash zeroshot.sh
 ```
-The dataset can be change by commenting or uncommenting line 4-5 or 6-7. 
+The dataset can be change by commenting or uncommenting line 4 and 5, i.e.
+```bash
+#DATASET=modelnet40
+DATASET=scanobjectnn
+```
 
 
 ## Acknowlegment
