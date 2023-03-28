@@ -58,7 +58,7 @@ The dataset can be changed by commenting or uncommenting line 4 and 5, i.e.
 #DATASET=modelnet40
 DATASET=scanobjectnn
 ```
-
+And the GPU can be changed by modifying line 11 `export CUDA_VISIBLE_DEVICES=7`.
 
 ## Acknowlegment
 This repo benefits from [PointCLIP](https://github.com/ZrrSkywalker/PointCLIP), [CLIP](https://github.com/openai/CLIP), [SimpleView](https://github.com/princeton-vl/SimpleView) and the excellent codebase [Dassl](https://github.com/KaiyangZhou/Dassl.pytorch). Thanks for their wonderful works.
