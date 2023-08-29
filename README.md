@@ -36,8 +36,8 @@ Thanks for citing our paper:
 
 ```
 @article{Zhu2022PointCLIPV2,
-    title={PointCLIP V2: Adapting CLIP for Powerful 3D Open-world Learning},
-    author={Zhu, Xiangyang and Zhang, Renrui and He, Bowei and Zeng, Ziyao and Zhang, Shanghang and Gao, Peng},
+    title={PointCLIP V2: Prompting CLIP and GPT for Powerful 3D Open-world Learning},
+    author={Zhu, Xiangyang and Zhang, Renrui and He, Bowei and Guo, Ziyu and Zeng, Ziyao and Qin, Zipeng and Zhang, Shanghang and Gao, Peng},
     journal={arXiv preprint arXiv:2211.11682},
     year={2022},
 }
